@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Teacher
-- [ ] The Tailor
+- [x] The Tailor
 - [ ] The Clockmaker
 
 ## Weapons
