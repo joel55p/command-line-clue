@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Magnifying Glass
-- [ ] Old Key
+- [x] Old Key
 - [x] Steel Ruler
 
 ## Notes
