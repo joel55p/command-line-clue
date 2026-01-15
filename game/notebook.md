@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Teacher
 - [x] The Tailor
-- [ ] The Clockmaker
+- [x] The Clockmaker
 
 ## Weapons
 - [ ] Magnifying Glass
