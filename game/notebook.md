@@ -13,4 +13,5 @@
 ## Notes
 *Use this space to record your findings and deductions...*
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+se pudo descubrir que el lugar del crimen fue en dock en pond en el park.
+entonces lo unico que me queda es que el impostor sea The teacher con magnifying Glass en dock
